@@ -1,0 +1,29 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables & credentials
+.env
+.env.*
+credentials/
+
+# Local logs & debug files
+logs/
+*.log
+debug_out.txt
+debug_out2.txt
+
+# Local output / PDFs generated
+output/
+
+# IDE files
+.vscode/
+.idea/
+
+# Node modules / package artifacts in frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local

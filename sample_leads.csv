@@ -1,0 +1,7 @@
+store_url,email,store_name,niche,notes
+https://allbirds.com,founder@allbirds.com,Allbirds,footwear,Sustainable footwear brand
+https://gymshark.com,hello@gymshark.com,Gymshark,fitness apparel,UK-based fitness brand
+https://mvmtwatches.com,contact@mvmt.com,MVMT Watches,accessories,DTC watch brand
+https://warbyparker.com,info@warbyparker.com,Warby Parker,eyewear,Online glasses retailer
+invalid-url,not-an-email,Bad Lead,,This row should be skipped
+https://fashionnova.com,support@fashionnova.com,Fashion Nova,fashion,Fast fashion retailer

@@ -1,0 +1,21 @@
+Subject: {{subject}}
+
+Hi {{store_name}} team,
+
+I came across your store and spent some time reviewing it from a conversion and UX perspective.
+
+I noticed a few specific opportunities worth flagging — for instance, {{audit_insight_1}} and {{audit_insight_2}}.
+
+These are the kinds of gaps that quietly cost revenue without any obvious sign — and they're usually fixable within days, not months.
+
+I've put together a short personalized audit covering:
+- CRO gaps slowing your conversion rate
+- UX friction points that make visitors drop off
+- AOV growth opportunities you're currently leaving on the table
+- Hidden revenue leaks most stores don't catch until too late
+
+I've attached the full audit PDF — no strings attached, just useful.
+
+If you'd like, I'm happy to jump on a quick call and walk through the findings, or start implementing the quick wins right away.
+
+{{signature}}
