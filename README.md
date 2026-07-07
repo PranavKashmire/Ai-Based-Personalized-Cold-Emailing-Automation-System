@@ -408,7 +408,7 @@ Core library licenses:
 
 <div align="center">
 
-**Built with Python + Claude AI**
+****
 
 *A freelance project demonstrating production-grade agentic AI system design*
 
